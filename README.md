@@ -1,3 +1,3 @@
 ﻿# Image Selection
  
- ## App para acessar a galera, e a camera do seu celular!
+ ## App para acessar a galeria, e a camera do seu celular!
